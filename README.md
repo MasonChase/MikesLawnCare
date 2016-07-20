@@ -1,2 +1,2 @@
 # MikesLawnCare
-Mike's Lawn and Garden Care
+Mike's Lawn Care
